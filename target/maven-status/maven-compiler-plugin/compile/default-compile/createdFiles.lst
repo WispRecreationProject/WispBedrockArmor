@@ -1,0 +1,16 @@
+dev\yhdiamond\wispbedrockarmor\bstats\Metrics$CustomChart.class
+dev\yhdiamond\wispbedrockarmor\bstats\Metrics.class
+dev\yhdiamond\wispbedrockarmor\WispBedrockArmor.class
+dev\yhdiamond\wispbedrockarmor\ItemBuilder.class
+dev\yhdiamond\wispbedrockarmor\bstats\Metrics$AdvancedBarChart.class
+dev\yhdiamond\wispbedrockarmor\bstats\Metrics$SimplePie.class
+dev\yhdiamond\wispbedrockarmor\bstats\Metrics$SimpleBarChart.class
+dev\yhdiamond\wispbedrockarmor\bstats\Metrics$MultiLineChart.class
+dev\yhdiamond\wispbedrockarmor\bstats\Metrics$AdvancedPie.class
+dev\yhdiamond\wispbedrockarmor\bstats\Metrics$JsonObjectBuilder$JsonObject.class
+dev\yhdiamond\wispbedrockarmor\bstats\Metrics$SingleLineChart.class
+dev\yhdiamond\wispbedrockarmor\bstats\Metrics$DrilldownPie.class
+dev\yhdiamond\wispbedrockarmor\ItemManager.class
+dev\yhdiamond\wispbedrockarmor\bstats\Metrics$JsonObjectBuilder.class
+dev\yhdiamond\wispbedrockarmor\bstats\Metrics$MetricsBase.class
+dev\yhdiamond\wispbedrockarmor\bstats\Metrics$1.class
